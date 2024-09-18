@@ -1,5 +1,7 @@
 # 2401FTDS__Capstone_Project
 Buenos Aires Contaminated River Data Analysis
+![16382538_304](https://github.com/user-attachments/assets/8727d451-d98b-4e43-b515-95b64c989b98)
+
 1. Project Overview
 
 A data science consultant hired to analyze contaminated river water parameters. The primary goal is to predict the dissolved oxygen (DO) level of the river based on various physico-chemical features.
